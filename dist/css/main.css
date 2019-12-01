@@ -130,8 +130,13 @@ article a {
   text-decoration: underline; }
 
 article img {
-  width: 80vw;
+  width: 40vw;
+  transition: all 0.5s;
   padding: 2rem; }
+  article img:hover{
+    width: 80vw;
+    cursor: pointer;
+  }
 
 @media screen and (max-width: 600px) {
   header .container nav {
