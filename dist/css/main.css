@@ -172,4 +172,7 @@ article img {
     article p a span {
       color: #333; }
   article img {
-    width: 90vw; } }
+    width: 70vw; }
+    article img:hover{
+    width: 90vw;
+    cursor: pointer;} }
