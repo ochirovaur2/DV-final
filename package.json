@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "webpack": "^4.41.2"
   },
   "devDependencies": {
